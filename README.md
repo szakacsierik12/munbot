@@ -1,0 +1,2 @@
+# munbot
+**magyar discord bot**
